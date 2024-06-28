@@ -6,12 +6,11 @@
    <elementGuidId>1c8a2e38-40f3-4444-af1b-938c083bbb88</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@id='login-button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,8 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//input[@id='login-button']</value>
-      <webElementGuid>a423de37-68e3-4295-bf88-d94d302e85e6</webElementGuid>
+      <value>&#xd;
+</value>
+      <webElementGuid>c8db47c0-5947-4fb6-abec-21400fd81dd3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

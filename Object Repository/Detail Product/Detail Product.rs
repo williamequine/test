@@ -6,12 +6,11 @@
    <elementGuidId>5cc6bb3b-4a25-4a9e-9520-e8e5832a8ef1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@class='inventory_list']//div[@class='inventory_item_label']/div[contains(.,'carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromis')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,7 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//div[@class='inventory_list']//div[@class='inventory_item_label']/div[contains(.,'carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromis')]</value>
-      <webElementGuid>7835ec97-4862-40bd-9bc1-b7b485de6704</webElementGuid>
+      <value></value>
+      <webElementGuid>5232b4ea-355c-4af2-a4c1-f7b0803dbb89</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

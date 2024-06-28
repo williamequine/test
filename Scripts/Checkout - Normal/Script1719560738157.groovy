@@ -33,7 +33,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('checkout - normal/button remove'))
 
-WebUI.verifyElementPresent(findTestObject('checkout - normal/item price'), 0)
+WebUI.verifyElementNotPresent(findTestObject('checkout - normal/item name'), 0)
 
 WebUI.takeFullPageScreenshot()
 
@@ -57,7 +57,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('checkout - normal/keranjang'))
 
-WebUI.verifyElementNotPresent(findTestObject('checkout - normal/item price'), 0)
+WebUI.verifyElementNotPresent(findTestObject('checkout - normal/item name'), 0)
 
 WebUI.takeFullPageScreenshot()
 

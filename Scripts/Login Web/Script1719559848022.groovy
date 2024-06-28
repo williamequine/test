@@ -27,13 +27,13 @@ WebUI.verifyElementPresent(findTestObject('Login/Verifikasi Buka Website'), 0)
 
 WebUI.setText(findTestObject('Login/Username'), 'standard_user')
 
-WebUI.setEncryptedText(findTestObject('Login/Password'), 'qcu24s4901FyWDTwXGr6XA==')
+WebUI.setText(findTestObject('Login/Password'), 'secret_sauce')
 
 WebUI.click(findTestObject('Login/Button Login'))
 
 WebUI.delay(1)
 
-WebUI.verifyElementPresent(findTestObject('Login/Verifikasi Buka Website'), 0)
+WebUI.verifyElementPresent(findTestObject('Login/Verifikasi Berhasil Login'), 0)
 
 WebUI.takeFullPageScreenshot()
 

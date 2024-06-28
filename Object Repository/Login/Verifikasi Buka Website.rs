@@ -6,12 +6,11 @@
    <elementGuidId>2226cecb-9bfa-47fe-a54e-24e9ec9892e4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@class='login_logo']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,7 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//div[@class='login_logo']</value>
-      <webElementGuid>50a642e4-86da-4595-94bd-47a962dc56e4</webElementGuid>
+      <value></value>
+      <webElementGuid>98325244-9b38-4be9-8da1-f97778f5b86b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

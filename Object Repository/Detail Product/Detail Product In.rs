@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Verifikasi Berhasil Login</name>
+   <name>Detail Product In</name>
    <tag></tag>
-   <elementGuidId>a44739c5-911b-41a5-8858-19c9e76dd703</elementGuidId>
+   <elementGuidId>beea7fff-826f-4387-b5d9-d1b80c0af7d8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//img[@alt='Sauce Labs Backpack']</value>
+         <value>//div[@class='inventory_details_desc large_size']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <type>Main</type>
-      <value></value>
-      <webElementGuid>ea67a0e9-5a26-43fe-a240-78a84a2ba53d</webElementGuid>
-   </webElementXpaths>
 </WebElementEntity>

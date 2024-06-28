@@ -6,12 +6,11 @@
    <elementGuidId>2f9d2cdb-a90b-4ce7-ae15-5e8b9d7cdb3b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@class='summary_tax_label']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,7 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//div[@class='summary_tax_label']</value>
-      <webElementGuid>9767bc09-cbb1-4f6d-bcb5-4314c6294f2f</webElementGuid>
+      <value></value>
+      <webElementGuid>d6a6243c-9fb4-4bce-bc4a-2d4c73597565</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

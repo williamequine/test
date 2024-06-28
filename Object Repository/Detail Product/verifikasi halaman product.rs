@@ -6,12 +6,11 @@
    <elementGuidId>af7c1203-eda3-43ec-b9ea-03310844e23c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//img[@alt='Sauce Labs Bike Light']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,8 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//img[@alt='Sauce Labs Bike Light']</value>
-      <webElementGuid>db4fb86f-71ae-4bdf-adc6-d1169b1e7155</webElementGuid>
+      <value>&#xd;
+</value>
+      <webElementGuid>5fca549c-adc2-4e4f-a197-49097fc9a8cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

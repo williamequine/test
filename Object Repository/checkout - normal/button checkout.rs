@@ -6,12 +6,11 @@
    <elementGuidId>1c8c5e33-8866-4c25-9b79-6065e048d6c0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//button[@id='checkout']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,8 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//button[@id='checkout']</value>
-      <webElementGuid>12988ee0-a52d-4420-8bd1-4364b437a6f4</webElementGuid>
+      <value>&#xd;
+</value>
+      <webElementGuid>0104d201-c542-454c-8748-6999e8db53a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

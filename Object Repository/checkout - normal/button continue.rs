@@ -6,12 +6,11 @@
    <elementGuidId>75e96a20-157a-4c59-a2dd-2805396ec652</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@id='continue']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,7 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//input[@id='continue']</value>
-      <webElementGuid>4204ffec-cf0d-4158-a8d7-b16bc405626a</webElementGuid>
+      <value></value>
+      <webElementGuid>0da0105c-658f-4a3e-b83a-f3c27ec89deb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

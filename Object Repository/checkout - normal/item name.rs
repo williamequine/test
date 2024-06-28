@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>item price</name>
+   <name>item name</name>
    <tag></tag>
    <elementGuidId>f5d9b131-4cdd-4623-8c3d-862abd2d4211</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@class='inventory_item_name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,7 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//div[@class='inventory_item_price']</value>
-      <webElementGuid>425354c8-7d92-4275-a140-1ec614a038fc</webElementGuid>
+      <value></value>
+      <webElementGuid>4892fe0a-9f01-41ad-ba27-371044d6100b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,11 @@
    <elementGuidId>fc92de01-bdb9-44d2-862d-9d2bdaed2ee2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//button[@id='remove-sauce-labs-backpack']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,7 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//button[@id='remove-sauce-labs-backpack']</value>
-      <webElementGuid>a61b79be-d0d5-48bf-84ef-dd0fcf897610</webElementGuid>
+      <value></value>
+      <webElementGuid>c8c40c5f-3079-47d8-861b-978730467c9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

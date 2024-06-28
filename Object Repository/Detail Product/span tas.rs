@@ -6,12 +6,11 @@
    <elementGuidId>05d76c09-78e0-491c-b02e-49e276f2ff22</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[.='Sauce Labs Backpack']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,8 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//div[.='Sauce Labs Backpack']</value>
-      <webElementGuid>8dbf7ad1-1a42-44f1-9a80-6af5dc0ccd23</webElementGuid>
+      <value>&#xd;
+</value>
+      <webElementGuid>4c7dd541-8249-4627-8f39-f22e3d59494a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

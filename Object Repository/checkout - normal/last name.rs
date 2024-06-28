@@ -6,12 +6,11 @@
    <elementGuidId>7a922923-bc93-4d8c-964f-030aec074770</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@id='last-name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,7 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//input[@id='last-name']</value>
-      <webElementGuid>c182a266-b946-4c0a-95cb-76445e38b4ef</webElementGuid>
+      <value></value>
+      <webElementGuid>3e367d9d-b382-4e76-9af2-ebf4114e778d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -21,15 +21,15 @@ WebUI.callTestCase(findTestCase('Login Web'), [:], FailureHandling.STOP_ON_FAILU
 
 WebUI.verifyElementText(findTestObject('Detail Product/Detail Product'), 'carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.')
 
-WebUI.waitForImagePresent(findTestObject('Detail Product/Gambar Tas'), 0)
+WebUI.verifyElementVisible(findTestObject('Detail Product/Gambar Tas'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Detail Product/span tas'))
 
-WebUI.verifyElementText(findTestObject('Detail Product/Detail Product'), 'carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.')
+WebUI.verifyElementPresent(findTestObject('Detail Product/Detail Product In'), 0)
 
-WebUI.waitForImagePresent(findTestObject('Detail Product/Gambar Tas'), 0)
+WebUI.verifyElementVisible(findTestObject('Detail Product/Gambar Tas'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementNotPresent(findTestObject('Detail Product/verifikasi halaman product'), 0)
 

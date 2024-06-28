@@ -6,12 +6,11 @@
    <elementGuidId>d48137fc-513d-4e44-b4f4-710ab322df79</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[@class='shopping_cart_link']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,7 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
-      <value>//a[@class='shopping_cart_link']</value>
-      <webElementGuid>c163854d-2286-4791-a0ac-00a8862c3451</webElementGuid>
+      <value></value>
+      <webElementGuid>fd44fef9-a89c-43c2-b89d-79dc9bc1b8d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
