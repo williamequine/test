@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Website</description>
+   <name>Login Web</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a267704e-62b3-4d4e-8f0a-dfd917b39311</testCaseGuid>
+</TestCaseEntity>
